@@ -3,6 +3,7 @@
 ## 📊 Project Overview
 This project presents a comprehensive and interactive **Sales Dashboard** developed using *Sales Dataset.xlsx* to analyze trends in sales and profitability across product categories, customer segments, years, and countries.  
 
+## 📁 Dataset Fields
 The dataset includes essential sales and order details, including: Order ID,	Order Dat,	Customer Name,	City,	Country,	Region,	Segment,	Ship Date,	Ship Mode	State.
 
 ---
@@ -24,10 +25,13 @@ An interactive map visual highlights profit distribution across Europe, enabling
 A treemap visualization displays product-level performance, with the size of each block representing sales or profit magnitude.  
 **Example:** “Nokia Smart Phone, Full Size” is identified as top-selling product.
 
+---
+<img width="1585" height="893" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/3c9cd121-0a40-4ce1-8a67-eff4c0ad16b4" />
+
 ### 5. Sales by Top Customers for the Top 5 Products
 A vertical stacked bar chart displays the top customers for the five best-selling products: Cisco Smart Phone Cordless, Cisco Smart Phone with Caller ID, Hamilton Beach Stove, Silver, and Novimex. The chart allows for comparison of sales contributions across customers for each product.
 
-<img width="1585" height="893" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/3c9cd121-0a40-4ce1-8a67-eff4c0ad16b4" />
+---
 
 <img width="1723" height="962" alt="image" src="https://github.com/user-attachments/assets/3dba6cdf-0892-4c72-9bee-6f9fdba39f44" />
 
